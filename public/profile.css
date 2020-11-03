@@ -1,0 +1,40 @@
+#postArticle {
+  text-align: center;
+}
+
+#postCaption{
+  word-break: break-word;
+}
+#main, #sidebar{
+  border: 1px solid gainsboro;
+  padding: 10px;
+  background-color: #F4F9FB;
+  border-radius: 10px;
+
+}
+.nope{
+  display: none;
+}
+textarea{
+  background-color: white;
+  border-radius: 10px;
+}
+ /* map */
+ .help{
+   margin-right: 20px !important;
+ }
+
+/* ddd */
+.submit{
+  display: none
+}
+.containProfile{
+  width: 90%;
+  margin-left: 5%;
+  border: 1px solid gray;
+  background-color: white;
+  border-radius: 5px;
+}
+.bodyProf{
+  background-color: gainsboro;
+}
